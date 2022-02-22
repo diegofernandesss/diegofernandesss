@@ -1,4 +1,4 @@
-## Olá! Estou cursando TSI e pretendendo ser desenvolvedor Full Stack
+## Olá! Seja bem-vindo ao meu repositório
 
 <div align="center">
   <a href="https://github.com/diegofernandesss">
