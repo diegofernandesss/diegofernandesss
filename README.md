@@ -1,4 +1,4 @@
-<h1 align= "left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Seja bem-vindo ao meu repoitório</h1>
+<h1 align= "left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Seja bem-vindo ao meu repositório</h1>
 
 <div align="center">
   <a href="https://github.com/diegofernandesss">
