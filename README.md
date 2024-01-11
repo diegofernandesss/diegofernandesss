@@ -1,5 +1,7 @@
 <h1 align="left"> Diego Fernandes</h1>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A4A4A4&random=false&width=435&lines=Desenvolvedor+Web+" alt="Typing SVG"/>
 
 <p align="left">Olá! Busco me preparar profissionalmente no campo de desenvolvimento web sendo capaz de assumir cargos que possa vencer desafios. Gosto do ramo da tecnologia para criar projetos voltados para melhoria de sites.</p>
