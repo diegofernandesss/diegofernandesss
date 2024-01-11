@@ -2,9 +2,6 @@
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00875f&random=false&width=435&lines=Diego+Fernandes" alt="Typing SVG"/>
 
-### Back-End:
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 <div align="center">
   <a href="https://github.com/diegofernandesss">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegofernandesss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
