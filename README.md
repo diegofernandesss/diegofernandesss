@@ -1,6 +1,9 @@
 <h1 align= "left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%"> Seja bem-vindo ao meu repositório</h1>
 
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34d399&random=false&width=435&lines=Diego+Fernandes" alt="Typing SVG"/>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00875f&random=false&width=435&lines=Diego+Fernandes" alt="Typing SVG"/>
+
+### Back-End:
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/diegofernandesss">
