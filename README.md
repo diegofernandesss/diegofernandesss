@@ -1,5 +1,7 @@
 <h1 align= "left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%"> Seja bem-vindo ao meu repositório</h1>
 
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F776&random=false&width=435&lines=Diego+Fernandes" alt="Typing SVG"></img>
+
 <div align="center">
   <a href="https://github.com/diegofernandesss">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegofernandesss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
