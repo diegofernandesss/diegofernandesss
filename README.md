@@ -31,7 +31,7 @@ https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&l
 
 #### Ferramentas de trabalho
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=flat-square&logo=vscode&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)&nbsp;
