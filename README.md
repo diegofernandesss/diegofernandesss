@@ -4,8 +4,6 @@
 
 <p align="left">Olá! Busco me preparar profissionalmente no campo de desenvolvimento web sendo capaz de assumir cargos que possa vencer desafios. Gosto do ramo da tecnologia para criar projetos voltados para melhoria de sites.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ## Tecnologias - Skill Primary
 
 #### Back-End
