@@ -6,6 +6,11 @@
 
 <p align="left">Olá! Busco me preparar profissionalmente no campo de desenvolvimento web sendo capaz de assumir cargos que possa vencer desafios. Gosto do ramo da tecnologia para criar projetos direcionados à otimização de experiência web.</p>
 
+## Contatos
+ 
+[![Gmail Badge](https://img.shields.io/badge/-ifpbdiego@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:ifpbdiego@gmail.com)](mailto:ifpbdiego@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandess-00875f?style=flat-square&labelColor=00875f&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-fernandess)](https://br.linkedin.com/in/diego-fernandess) 
+
 ## Tecnologias - Skill Primary
 
 #### Back-End
@@ -48,10 +53,7 @@ https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&l
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-## Contatos
- 
-[![Gmail Badge](https://img.shields.io/badge/-ifpbdiego@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:ifpbdiego@gmail.com)](mailto:ifpbdiego@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandess-00875f?style=flat-square&labelColor=00875f&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-fernandess)](https://br.linkedin.com/in/diego-fernandess) 
+## Contribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegofernandesss&bg_color=000000&color=38ff9c&line=38ff9c&point=080808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
