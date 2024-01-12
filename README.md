@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A4A4A4&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=header" />
 
 <h1 align="left"> Diego Fernandes</h1>
 
@@ -53,8 +53,7 @@ https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&l
 [![Gmail Badge](https://img.shields.io/badge/-ifpbdiego@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:ifpbdiego@gmail.com)](mailto:ifpbdiego@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandess-00875f?style=flat-square&labelColor=00875f&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-fernandess)](https://br.linkedin.com/in/diego-fernandess) 
 
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegofernandesss&bg_color=000000&color=38ff9c&line=38ff9c&point=080808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<div align="center">
   <a href="https://github.com/diegofernandesss">
