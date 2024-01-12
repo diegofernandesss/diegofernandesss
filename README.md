@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A4A4A4&height=120&section=header" />
+
 <h1 align="left"> Diego Fernandes</h1>
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A4A4A4&random=false&width=435&lines=Desenvolvedor+Web+" alt="Typing SVG"/>
