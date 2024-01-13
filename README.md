@@ -10,6 +10,7 @@
  
 [![Gmail Badge](https://img.shields.io/badge/-ifpbdiego@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:ifpbdiego@gmail.com)](mailto:ifpbdiego@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&labelColor=00875f&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-fernandess)](https://br.linkedin.com/in/diego-fernandess) 
+[![Discord Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&labelColor=00875f&logo=Discord&logoColor=white&link=https://discordapp.com/users/856889708822003713)](https://discordapp.com/users/856889708822003713)
 
 ## Tecnologias - Skill Primary
 
