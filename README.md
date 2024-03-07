@@ -33,7 +33,7 @@ https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&l
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 
 #### DataBase
 
